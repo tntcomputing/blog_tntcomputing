@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TnT Computing</title>
+    <link>https://blog.tntcomputing.co.uk/post/</link>
+    <description>Recent content in Posts on TnT Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Andy Tyrrell of tntcomputing; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 16 Feb 2021 15:24:07 +0000</lastBuildDate><atom:link href="https://blog.tntcomputing.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Day Challenge</title>
+      <link>https://blog.tntcomputing.co.uk/post/30daychallenge/</link>
+      <pubDate>Tue, 16 Feb 2021 15:24:07 +0000</pubDate>
+      
+      <guid>https://blog.tntcomputing.co.uk/post/30daychallenge/</guid>
+      <description>
+        
+          &lt;p&gt;30 days to learn a new skill with a 50% voucher off a microsoft exam for completing the &lt;a href = &#34;https://developer.microsoft.com/en-us/offers/30-days-to-learn-it&#34;&gt;challenge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I chose the Azure Solutions Architext challenge. The course is approximatly 30 hours long, spread over 35 modules. For the most part you don&#39;t need an Azure subscription as Microsoft provides sandboxes for the labs. There were a few modules that did require a subscription, helpfully they reminded you to clear up the resourse groups afterwards so you don&#39;t end up with a large bill at the end of the month.&lt;/p&gt;
+&lt;p&gt;The hands on nature of the course was great for building confidence in using the portal and the command line interface. After a while the workflow becomes familiar and your progress speeds up.&lt;/p&gt;
+&lt;p&gt;One thing to note is the 50% off voucher is a one time deal, well Microsoft say you can apply for another in 6 months but the offer will be finished by then.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
